@@ -1,0 +1,2 @@
+Esta é uma história sobre um aprendiz de python que está em busca da
+primeira experiência em python começando do zero
