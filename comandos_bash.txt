@@ -1,0 +1,5 @@
+ls - mostra os arquivos
+cd- move para a pasta
+pwd - mostra o caminho
+cat - exibe conteúdo do arquivo
+rm - remove o diretório ou arquivo

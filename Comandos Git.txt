@@ -1,3 +1,0 @@
-ls - mostra os aruivos
-cd- move para a pasta
-pwd - mostra o caminho
