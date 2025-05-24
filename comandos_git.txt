@@ -1,9 +1,9 @@
-git init . - cria um repositorio na pasta atual
-git status - mostra o status do trabalho
-git add - adiciona o arquivo ao repositório
-git commit -m "msg" - cria um novo commit com as alterações
-git log - mostra todo o histórico de commit
-git reset nome_arquivo - remove o arquivo do commit / oposto do git add
-git checkout -b nome_branch - cria uma nova branch baseado no último commit
-git checkout nome_branch - move-se para a branch nomeada
-git branch - mostra as branchs existentes
+git init . - Cria um repositorio na pasta atual
+git status - Mostra o status do trabalho
+git add - Adiciona o arquivo ao repositório
+git commit -m "msg" - Cria um novo commit com as alterações
+git log - Mostra todo o histórico de commit
+git reset nome_arquivo - Remove o arquivo do commit / oposto do git add
+git checkout -b nome_branch - Cria uma nova branch baseado no último commit
+git checkout nome_branch - Move-se para a branch nomeada
+git branch - Mostra as branchs existentes
